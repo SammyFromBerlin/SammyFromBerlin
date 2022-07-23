@@ -92,7 +92,7 @@ def snipeCards():
         break
 
 ##################################################################################
-chars = open("MudaeTop400.txt").readlines()
+chars = open("MudaeTopChars.txt").readlines()
 character = []
 
 for i in chars:
